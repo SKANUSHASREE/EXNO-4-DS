@@ -24,8 +24,10 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+```
 NAME  : S KANUSHA SREE
 REG NO: 212224040149
+```
 ```
 import pandas as pd
 from scipy import stats
